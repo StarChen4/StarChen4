@@ -7,6 +7,7 @@
 
 #Here are some of my major works：
 - A GameJam game
+- <img src="Game_GameJam.png" alt="本地图片" width="300" height="200">
 - ![picture 1](Game_GameJam.png) ![picture 2](Game_GameJam2.png) ![picture](Game_GameJam3.png)
 
 - A monopoly game
