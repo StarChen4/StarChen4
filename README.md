@@ -8,8 +8,7 @@
 ## Here are some of my major works：
 # A GameJam game
 - <img src="Game_GameJam.png" alt="本地图片" width="400">
-- <img src="Game_GameJam2.png" alt="本地图片" width="400">
-- <img src="Game_GameJam3.png" alt="本地图片" width="400">
+- <img src="Game_GameJam2.png" alt="本地图片" width="400"> <img src="Game_GameJam3.png" alt="本地图片" width="400">
 
 # A monopoly game
 - <img src="Game_Java_Marraketch.png" alt="本地图片" width="400">
