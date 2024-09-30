@@ -7,10 +7,12 @@
 
 #Here are some of my major works：
 - A GameJam game
-- <img src="Game_GameJam.png" alt="本地图片" width="300">
-- ![picture 1](Game_GameJam.png) ![picture 2](Game_GameJam2.png) ![picture](Game_GameJam3.png)
+- <img src="Game_GameJam.png" alt="本地图片" width="400">
+- <img src="Game_GameJam2.png" alt="本地图片" width="400">
+- <img src="Game_GameJam3.png" alt="本地图片" width="400">
 
 - A monopoly game
+- - <img src="Game_Java_Marraketch.png" alt="本地图片" width="400">
 - ![piture 3](Game_Java_Marraketch.png)
 
 - An Android app
