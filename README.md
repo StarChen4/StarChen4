@@ -16,13 +16,10 @@
 
 
 # An Android app
-- <img src="Android_App_1.png" alt="本地图片" width="200">
-- <img src="Android_App_2.png" alt="本地图片" width="200">
-- <img src="Android_App_3.png" alt="本地图片" width="200">
-- <img src="Android_App_4.png" alt="本地图片" width="200">
+- <img src="Android_App_1.png" alt="本地图片" width="200"> <img src="Android_App_2.png" alt="本地图片" width="200"> <img src="Android_App_3.png" alt="本地图片" width="200"> <img src="Android_App_4.png" alt="本地图片" width="200">
 
 # A Java software
-- ![picture 7](Software_Java.png)
+- <img src="Android_App_1.png" alt="本地图片" width="400">
 <!---
 StarChen4/StarChen4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
